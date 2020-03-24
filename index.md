@@ -1,14 +1,14 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Alex Fornuto
+full_name: Alex Fornuto
 # Set this to the Github URL for links to work correctly
-# github_url: https://github.com/abloomston/workwithme.guide-myguide/
+github_url: https://github.com/alexfornuto/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
-# picture: ./profile.jpg
+picture: ./profile.jpg
 # To add your name to the front page list, uncomment below
-# categories: [profile]
+categories: [profile]
 ---
 
 _Two important points about your Work With Me document:_
@@ -21,75 +21,61 @@ _You might want to [estimate the reading time](http://niram.org/read/) of your d
 
 ## Values
 
-What do you value most in the world, in people, and/or in yourself? You might find it helpful to
-spend a few minutes [googling "list of values"](https://www.google.com/search?q=list+of+values) and finding the values that most resonate with you.
+**Empathy**: The crucial value for a technical writer, empathy let's us see through others' eyes.
+
+**Direct communication**: This generally falls under "Honesty", but is more specific. I never want to be a jerk, but I want to hear it how it is, and I want to tell you the truth as best I can.
+
+This bears saying, because sometimes people will attach their ego to their work. Editing is a core part of technical writing, and a good editor is somewhere between a surgeon and a butcher with words.
+
+All the work I do is in the interest of making the best explanations I can for the readers.
 
 ## Personality
 
-How do you act in the world? This can be a combination of descriptive and aspirational traits.
+- I like humor at work. I grew out of class clownism, but that's no reason not to make a joke when it's there to be made.
+- I like to think things out. I think out loud a lot. I work remotely, but quick video meetings are a great way to get that creative coworking going when needed.
+- I may not be the best at self-reflection. This is a note-to-self to improve this section later.
 
 ## Receiving Feedback & Recognition
 
-How do you best receive feedback, be it positive or negative?
+I don't take praise well. If I did a good job, I'm happy about it. It's its own reward and all that. Please don't make a big deal about it.
 
-What about when one of us wants to call you out in some way for something awesome you did, a
-great piece of advice you gave, an insight you had, or your amazing Cat Thursday shirt—how do
-you feel most comfortable receiving that recognition?
+Now constructive criticism, that I can handle. See [Values](#values) above. I am not my words, my ego isn't tied to it. My ego is tied to helping make the best documentation **we** can make.i
+
+This applies to personal feedback as well. I want to be a good coworker to you, but I recognize that I probably am not "out of the box" ready. I can be "a bit much", and I recognize that. Don't be afraid to DM me if you need to get something off your chest.
+
+I communicate strangely over text. The way I mean things isn't always the way the wait it's received. I'm working on it, but please give me the benefit of the doubt, or ask me to clarify.
 
 ## Work Patterns
 
-What hours do you usually work?
+I'm in the American Central time zone, and I usually start work somewhere between 8 and 10 AM, working through to 4 to 6 PM. For meetings and other team activities, 10-4 is the safe zone.
 
-When do you prefer to work alone, versus in groups? How do your energy levels fluctuate through-
-out the day?
+I'm used to working as a team, but alone. That is to say, I do my part of a project, and hand it back for review. If adjustments are needed, pass it back and I'll take another pass. Sometimes a group session is good to help get over a particular hurdle, and sometimes it's just fun to work with someone, even virtually. But it's not the norm.
 
 ## Communication Preferences
 
-What should people expect from you when they reach out to you on Yammer, Email, or Slack?
-How should people best get your attention for urgent matters, during and out of your working
+I answer all Slack messages. I may not always have the answer you want, but I don't leave people hanging, as it's a personal peeve of mine to be left on unread.
 
+If we're working on a project, please use whatever project management tool we're using for updates. Rest assured, whatever tool we're using I've got notifications for it.
 
-hours? What's your relationship to work communication when not at work? What are your signs
-that you'd prefer to not be interrupted when at work?
-
-## How To Know I’ve Gone To The Dark Side
+## How To Know I've Gone To The Dark Side
 
 ### Warning Signs
 
-When you don't feel safe in a conversation, how does this manifest itself in your actions or affects?
-What about when you're just not having an "on" or "good" day?
+I'm usually pretty vocal. About everything. All the time. Annoyingly so. If I go mute, it's probably because I don't feel comfortable saying what I think needs to be said.
 
-### How to help
-
-This might also be a good place
-to present recommendations for how we can be supportive towards you when you've gone to the
-Dark Side.
 
 ## Me Being Me
 
-Any habits that of yours that can be easily misinterpreted? Here's a good place to point them out.
+As mentioned above, I try to make jokes when I can. I want work to be light-hearted. But when I'm not joking, I'm as direct as I can be, sometimes to the detriment of the point I'm trying to make. 
 
 ## Pet Peeves
 
 _I don't expect this list to change your actions—but it might help you better understand and empathize with my
 reactions._
 
-Any pet peeves we should know about? Knowing them may not, and shouldn't be expected to,
-change others actions—but it might help us better understand and empathize with your reactions.
-In fact, you might want the disclaimer above to stay in your document.
+I'd much prefer an "I don't know", or an "I can't look at this right now" to a wrong answer, or to being ignored. Please let me know that I'm not just shouting into the void.
 
-## Career Goals & Future Interests
-
-What long term career goals do you have for yourself? What interests do you hope or plan for your
-future self to obsess over.
-
-## Areas for Development
-
-Anything you'd like us to know about yourself that makes you (gasp!) not perfect? If they are as-
-pects you'd like to change or are working on, this might be a good place to point out constructive
-and positive ways we can help you be aware of and take corrective action in the moment.
 
 ## Ask Me About
 
-Let's get to know one another! Here's a great place to list things you've done / activities you love
-/ conversations you're (almost) always excited to have!
+Music! Or better yet, tell me about some music.
