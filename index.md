@@ -35,7 +35,7 @@ Now constructive criticism, that I can handle. See [Values](#values) above. I am
 
 This applies to personal feedback as well. I want to be a good coworker to you, but I recognize that I probably am not "out of the box" ready. I can be "a bit much", and I recognize that. Don't be afraid to DM me if you need to get something off your chest.
 
-I communicate strangely over text. The way I mean things isn't always the way the wait it's received. I'm working on it, but please give me the benefit of the doubt, or ask me to clarify.
+I communicate strangely over text. The way I mean things isn't always the way it's received. I'm working on it, but please give me the benefit of the doubt, or ask me to clarify.
 
 ## Work Patterns
 
